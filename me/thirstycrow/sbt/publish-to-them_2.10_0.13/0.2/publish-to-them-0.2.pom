@@ -5,7 +5,7 @@
     <artifactId>publish-to-them</artifactId>
     <packaging>jar</packaging>
     <description>publish to one or more repositories</description>
-    <version>0.1</version>
+    <version>0.2</version>
     <name>publish-to-them</name>
     <organization>
         <name>me.thirstycrow.sbt</name>
